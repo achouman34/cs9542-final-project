@@ -5,7 +5,7 @@
 This repository is the formal submission of all project files and code for the project, "**Leveraging Segmentation and Vision-Language Models for Vehicle Scene Captioning**".
 
 # Dataset Files
-The dataset contains 50 images under the folder *indian_vehicle_images* and their corresponding captions under the folder *indian_vehicle_txt_annos*.
+The dataset is a ZIP file containing 50 image files under the folder *indian_vehicle_images* and their corresponding caption text files under the folder *indian_vehicle_txt_annos*.
 
 # Project Files
 
