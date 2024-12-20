@@ -10,7 +10,9 @@ The dataset is publicly available here: [Vehicle Image Captioning Dataset](https
 # Project Files
 
 - **panoptic_SAM.ipynb**
-	 - performs panoptic segmentation with SAM on vehicle image dataset
+	- performs panoptic segmentation with SAM on vehicle image dataset
+- **SAM.ipynb**
+	- performs both standalone zero-shot GIT usage and the zero-shot integration of SAM and GIT
 - **grounding_dino_and_SAM.ipynb**
 	- combines Grounding DINO zero-shot object detection with SAM
 - **preprocessing_for_finetuning_microsoft_git.ipynb**
